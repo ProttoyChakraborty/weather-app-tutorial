@@ -1,0 +1,17 @@
+.main-container {
+  width: 70vw;
+  margin: 1rem auto;
+  height: 60vh;
+  background: rgba(247, 232, 232, 0.44);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4.6px);
+  -webkit-backdrop-filter: blur(4.6px);
+  border: 1px solid rgba(253, 216, 216, 0.6);
+}
+.vital-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
